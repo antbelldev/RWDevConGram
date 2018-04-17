@@ -4,7 +4,7 @@
 
 1. Install Cocoapods : `sudo gem install cocoapods`
 2. Create a directory, clone the repo :
-* `cd ~/path/to/file`
+* `cd ~/path/to/directory`
 * `git init`
 * `git clone https://github.com/antoinebell/RWDevConGram.git`
 3. Init Cocoapods : `pod init`
